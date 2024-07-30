@@ -1,8 +1,8 @@
 <?php
 
-namespace tests;
+namespace Tests;
 
-use HumanReadableDurationFormat\HumanReadableDuration;
+use Codewars\HumanReadableDuration;
 use PHPUnit\Framework\TestCase;
 
 class HumanReadableDurationTest extends TestCase

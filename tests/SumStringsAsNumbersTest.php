@@ -1,5 +1,8 @@
 <?php
 
+namespace Tests;
+
+use Codewars\SumStringsAsNumbers;
 use PHPUnit\Framework\TestCase;
 
 class SumStringsAsNumbersTest extends TestCase
