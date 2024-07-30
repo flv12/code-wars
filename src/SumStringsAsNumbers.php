@@ -1,5 +1,7 @@
 <?php
 
+namespace Codewars;
+
 class SumStringsAsNumbers
 {
     public static function sumStrings(string $a, string $b): string

@@ -2,8 +2,8 @@
     "name": "flo/codewars",
     "autoload": {
         "psr-4": {
-            "HumanReadableDurationFormat\\": "human-readable-duration-format/src/",
-            "HumanReadableDurationFormat\\Tests\\": "human-readable-duration-format/tests/"
+            "Codewars\\": "src/",
+            "Tests\\": "tests/"
         }
     },
     "authors": [
