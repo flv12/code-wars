@@ -1,6 +1,6 @@
 <?php
 
-namespace Codewars;
+namespace Codewars\SumStringsAsNumbersKata;
 
 class SumStringsAsNumbers
 {
