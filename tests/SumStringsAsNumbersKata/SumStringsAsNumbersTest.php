@@ -1,8 +1,8 @@
 <?php
 
-namespace Tests;
+namespace Tests\SumStringsAsNumbersKata;
 
-use Codewars\SumStringsAsNumbers;
+use Codewars\SumStringsAsNumbersKata\SumStringsAsNumbers;
 use PHPUnit\Framework\TestCase;
 
 class SumStringsAsNumbersTest extends TestCase

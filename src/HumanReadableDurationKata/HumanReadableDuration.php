@@ -1,6 +1,6 @@
 <?php
 
-namespace HumanReadableDurationFormat;
+namespace Codewars\HumanReadableDurationKata;
 
 class HumanReadableDuration
 {
