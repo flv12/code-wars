@@ -1,0 +1,13 @@
+{
+  "name": "codewars",
+  "repository": "git@github.com:flv12/code-wars.git",
+  "author": "flv12 <26801813+flv12@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "node": "^20.16.0",
+    "shelljs": "^0.8.5"
+  },
+  "scripts": {
+    "generateFiles": "node scripts/generateFiles.js"
+  }
+}
