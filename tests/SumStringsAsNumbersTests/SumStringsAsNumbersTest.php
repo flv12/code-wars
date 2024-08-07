@@ -42,4 +42,9 @@ class SumStringsAsNumbersTest extends TestCase
         $this->assertSame('38', SumStringsAsNumbers::sumStrings('19', '19', false));
         $this->assertSame('38', SumStringsAsNumbers::sumStrings('19', '19', true));
     }
+
+    public function testWithZeroPrefix()
+    {
+        $this->assertSame('1000', SumStringsAsNumbers::sumStrings('0000999', '1'));
+    }
 }
